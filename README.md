@@ -2,7 +2,8 @@
 ![](https://i.ibb.co/XWXPMdk/twitter-header-photo-2.png)
 
 
-Skills: C/C++, Python, MongoDB, Arduino
+Skills: C, MongoDB, Arduino
+Semi Skills: Python, NodeJS, C++
 
 
 
