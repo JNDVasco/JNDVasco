@@ -3,6 +3,7 @@
 
 
 Skills: C, MongoDB, Arduino
+
 Semi Skills: Python, NodeJS, C++
 
 
