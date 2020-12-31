@@ -17,7 +17,7 @@ align="left">
 <h3 align="left">Socials:</h3>
 <p 
 align="left">
-<a href="https://github.com/JNDVasco" target="_blank"> <img src="https://devicon.dev/devicon.git/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/> </a> 
+<a href="https://github.com/JNDVasco" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/> </a> 
 <a href="https://www.jndvasco.me/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Site" width="40" height="40"/> </a> 
 </p>
 
