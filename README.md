@@ -19,6 +19,7 @@ align="left">
 align="left">
 <a href="https://github.com/JNDVasco" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/> </a> 
 <a href="https://www.jndvasco.me/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Site" width="40" height="40"/> </a> 
+<a href="https://twitter.com/JNDVasco" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/JNDVasco)  
