@@ -1,25 +1,33 @@
 ### JNDVasco
-![](https://i.ibb.co/XWXPMdk/twitter-header-photo-2.png)
 
+---
+<h3 align="center" style="font-weight: bold"> Programming Languages </h3>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,matlab,bash">
+</div>
 
-<h3 align="left">Knowledge:</h3>
-<p 
-align="left"> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino.svg" alt="Arduino" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40"/> </a>
-</p>
+<h3 align="center" style="font-weight: bold"> Software </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,cmake,pytorch,autocad,arduino">
+</div>
 
+<h3 align="center" style="font-weight: bold"> Infrastructure </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=docker,ansible,terraform,linux">
+</div>
 
-<h3 align="left">Socials:</h3>
+<h3 align="center" style="font-weight: bold"> Others </h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,prometheus,grafana,nginx,cloudflare">
+</div>
+
+---
+
+<h3 align="center">Socials:</h3>
 <p 
 align="left">
-<a href="https://github.com/JNDVasco" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="GitHub" width="40" height="40"/> </a> 
-<a href="https://jndvasco.pt/" target="_blank"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="Site" width="40" height="40"/> </a> 
-<a href="https://twitter.com/JNDVasco" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="40" width="40" /></a>
+<a href="https://github.com/JNDVasco" target="_blank"> <img src="https://skillicons.dev/icons?i=github"/> </a> 
+<a href="https://www.linkedin.com/in/jndvasco/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> 
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/JNDVasco)  
