@@ -24,8 +24,7 @@
 ---
 
 <h3 align="center">Socials:</h3>
-<p 
-align="left">
+<p align="center">
 <a href="https://github.com/JNDVasco" target="_blank"> <img src="https://skillicons.dev/icons?i=github"/> </a> 
 <a href="https://www.linkedin.com/in/jndvasco/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin"/> </a> 
 </p>
